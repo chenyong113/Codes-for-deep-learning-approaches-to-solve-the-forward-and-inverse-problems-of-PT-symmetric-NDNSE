@@ -1,0 +1,2 @@
+# Codes-for-deep-learning-approaches-to-solve-the-forward-and-inverse-problems-of-PT-symmetric-NDNSE
+This dataset contains the complete Python implementation of a deep learning framework for solving the PT-symmetric nonlocal derivative nonlinear Schrödinger equations (NDNLSE). The code reproduces all numerical experiments and figures reported in the associated article. The provided scripts are based on TensorFlow 1.12x.
